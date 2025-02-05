@@ -496,7 +496,7 @@ export const projects = [
       {
         name: "Anas Khan",
         img: "https://github.com/yuppthatscool/images_portfolio/blob/main/getimg/AnasKhan.jpeg?raw=true",
-        linkedin: "linkedin.com/in/khananas007",
+        linkedin: "https://linkedin.com/in/khananas007",
         github: "https://github.com/khananas007",
       },
     ],
@@ -677,7 +677,7 @@ export const projects = [
       {
         name: "Anas Khan",
         img: "https://github.com/yuppthatscool/images_portfolio/blob/main/getimg/AnasKhan.jpeg?raw=true",
-        linkedin: "linkedin.com/in/khananas007",
+        linkedin: "https://linkedin.com/in/khananas007",
         github: "https://github.com/khananas007",
       },
     ],
